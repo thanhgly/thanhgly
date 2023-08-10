@@ -7,7 +7,7 @@ Fullstack Software Engineer
 I'm a passionate full-stack software engineer driven by a love for technology and a desire to make a positive impact. With expertise in JavaScript, TypeScript, React, Node, Express, HTML, CSS, and databases like PostgreSQL and MongoDB, I thrive on tackling complex challenges head-on. My skill set encompasses database management, programming logic, and user interface development, enabling me to deliver impactful products. Tenacity is one of my strongest soft skills—I persistently explore different avenues until I find solutions. This not only helps me navigate through complex problems but also inspires confidence in those around me, knowing they can rely on my unwavering commitment to finding resolutions.
 
 * 🌍  I'm based in San Francisco Bay Area
-* ✉️  You can contact me at [thanh.g.ly@icloud.com](mailto:thanh.g.ly@icloud.com)
+* ✉️  You can contact me at [thanhgly.se@gmail.com](mailto:thanhgly.se@gmail.com)
 
 ### Skills
 
